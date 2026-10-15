@@ -1,0 +1,7 @@
+{
+  "name": "EnemyPitchTimePatcher",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Superkiesel/EnemyPatcher",
+  "description": "Patches Pitches and Times on Enemies",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
